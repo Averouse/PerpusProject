@@ -6,14 +6,14 @@ Aplikasi desktop yang dibangun menggunakan Java Swing untuk membantu pustakawan 
 
   * **Autentikasi Pengguna**: Sistem registrasi dan login yang aman untuk setiap pengguna.
   * **Keamanan Password**: Menggunakan hashing **jBCrypt** untuk melindungi password pengguna.
-  * [cite\_start]**Manajemen Buku (CRUD)**: Pengguna dapat menambah, melihat, mengedit, dan menghapus koleksi bukunya sendiri[cite: 13, 112].
-  * [cite\_start]**Manajemen Gambar**: Kemampuan untuk mengunggah, menampilkan pratinjau, dan menyimpan gambar sampul buku[cite: 63, 119]. Gambar secara otomatis disalin ke dalam folder proyek agar portabel.
-  * [cite\_start]**Paginasi Data**: Menampilkan daftar buku dalam beberapa halaman untuk menjaga performa aplikasi[cite: 48, 50, 51].
-  * [cite\_start]**Pencarian & Penyaringan**: Fitur untuk mencari buku berdasarkan berbagai kriteria (judul, pengarang, dll.) serta menyortir data[cite: 19, 20].
-  * [cite\_start]**Impor & Ekspor**: Fungsi untuk mengimpor data buku dari file CSV dan mengekspor koleksi ke dalam file CSV[cite: 24].
+  * **Manajemen Buku (CRUD)**: Pengguna dapat menambah, melihat, mengedit, dan menghapus koleksi bukunya sendiri.
+  * **Manajemen Gambar**: Kemampuan untuk mengunggah, menampilkan pratinjau, dan menyimpan gambar sampul buku Gambar secara otomatis disalin ke dalam folder proyek agar portabel.
+  * **Paginasi Data**: Menampilkan daftar buku dalam beberapa halaman untuk menjaga performa aplikasi.
+  * **Pencarian & Penyaringan**: Fitur untuk mencari buku berdasarkan berbagai kriteria (judul, pengarang, dll.) serta menyortir data.
+  * **Impor & Ekspor**: Fungsi untuk mengimpor data buku dari file CSV dan mengekspor koleksi ke dalam file CSV.
   * **Sistem Peminjaman**: Mencatat transaksi peminjaman dan pengembalian buku.
-  * [cite\_start]**Laporan**: Menampilkan laporan transaksi peminjaman yang diproses oleh pengguna yang sedang login[cite: 30].
-  * [cite\_start]**Antarmuka Modern**: Menggunakan library **FlatLaf** untuk tampilan yang bersih dan modern[cite: 1].
+  * **Laporan**: Menampilkan laporan transaksi peminjaman yang diproses oleh pengguna yang sedang login.
+  * **Antarmuka Modern**: Menggunakan library **FlatLaf** untuk tampilan yang bersih dan modern.
 
 ## Teknologi yang Digunakan
 
